@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS 
+#define _CRT_SECURE_NO_WARNINGS //用于注释fopen的报错
 #include <stdio.h>//基本头
 #include <conio.h>//初见于getch,未调试好
 #include <stdlib.h>//初见于system
